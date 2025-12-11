@@ -10,12 +10,11 @@ I'm a Software Engineering student and an aspiring developer with a passion for 
 
 ## Projects & Work
 Explore my projects and contributions on GitHub:
-- 🌟 [GitHub Portfolio](https://github.com/riteshkadiann)
+- 🌟 [GitHub Portfolio](https://github.com/Riteshkadiann?tab=repositories)
 
 ## Connect with Me
 Let's network and stay in touch!
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ritesh-kadian/)
-- 🌐 [GitHub Profile](https://github.com/riteshkadiann)
 
 ## Languages and Tools
 I work with a diverse set of technologies and tools, including:
