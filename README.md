@@ -16,11 +16,22 @@ Explore my projects and contributions on GitHub:
 Let's network and stay in touch!
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ritesh-kadian/)
 
-## Languages and Tools
+## Tech Stack & Proficiencies
 I work with a diverse set of technologies and tools, including:
-- **Languages**: Python, C#, Javascript, HTML5, CSS
-- **Databases**: SQL Developer, MongoDB, Oracle
-- **Tools & Libraries**: Node.js, React
+- **Business & Strategy**: 💼 Business-to-Business (B2B),
+☁️ Software as a Service (SaaS),
+📈 Go-to-Market Strategy,
+⚖️ Legal Technology
+Experience: Business Development Executive at Datacove.ai
+- **Programming & AI**: 🐍 Python (Programming Language)
+🤖 Artificial Intelligence (AI)
+🧠 Machine Learning
+C#
+- **Web Development (MERN Stack Focus)**: ⚛️ React.js
+🟢 Node.js
+✨ JavaScript
+🎨 Tailwind CSS, Cascading Style Sheets (CSS)
+🌐 HTML5
 
 Feel free to explore my work and reach out if you'd like to collaborate or learn more about what I do. I'm always excited to connect with fellow tech enthusiasts!
 
