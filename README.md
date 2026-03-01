@@ -1,30 +1,48 @@
 # Hello, I'm Ritesh Kadian! 👋
 
-## About Me
-I'm a Software Engineering student and an aspiring developer with a passion for technology and innovation. Currently, I'm diving into the MERN stack to enhance my skills and build dynamic web applications.
+## Software Engineering Student | Backend & AI Developer
 
-- 🌱 **Learning**: MERN Stack (MongoDB, Express.js, React, Node.js)
-- 😄 **Pronouns**: He/him
-- 📄 **Experience**: [Check out my resume](https://riteshkadiann.github.io/Portfolio/resume.pdf)
+Building scalable backend systems, AI-powered applications, and production-ready APIs.  
+Seeking **Backend / Python / AI Internship opportunities**.
 
-## Projects & Work
-Explore my projects and contributions on GitHub:
-- 🌟 [GitHub Portfolio](https://github.com/Riteshkadiann?tab=repositories)
+---
 
-## Connect with Me
-Let's network and stay in touch!
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ritesh-kadian/)
+## 🚀 Focus Areas
+- RESTful API Development
+- Scalable Backend Architecture
+- AI/NLP Applications
+- Database Design & Optimization
+- Cloud Deployment
 
-## Tech Stack & Proficiencies
-I work with a diverse set of technologies and tools, including:
-- **Languages**: Python, JavaScript, C#
-- **Web Development**: React, Node.js, Tailwind CSS, HTML
-- **Databases**: SQL, MongoDB, Oracle
-- **AI/ML Libraries & Concepts**: NumPy, Pandas, Machine Learning, Artificial Intelligence
+---
 
-Feel free to explore my work and reach out if you'd like to collaborate or learn more about what I do. I'm always excited to connect with fellow tech enthusiasts!
+## 🛠 Tech Stack
 
-<!---
-RiteshKadiann/Riteshkadiann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages:** Python, JavaScript, Java, C#  
+**Backend:** FastAPI, Node.js, Express.js  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**AI/ML:** scikit-learn, spaCy, PyTorch, Pandas, NumPy  
+**Cloud/DevOps:** AWS (EC2, S3), Render, Git, GitHub  
+
+---
+
+## 🔥 Featured Project
+
+**SkillVector — AI Career Strategy Engine**  
+AI system that analyzes resumes vs job descriptions using NLP and similarity scoring.  
+
+- Built with FastAPI + React + PostgreSQL  
+- Implemented TF-IDF & cosine similarity  
+- Designed scalable database schema  
+- Deployed live to production  
+
+🔗 Live: [https://skillvector-y1r1.onrender.com/]  
+📂 Code: [https://github.com/Riteshkadiann/SkillVector]
+
+---
+
+## 📄 Resume
+https://riteshkadiann.github.io/Portfolio/resume.pdf
+
+## 🔗 Connect
+LinkedIn: https://www.linkedin.com/in/ritesh-kadian/
