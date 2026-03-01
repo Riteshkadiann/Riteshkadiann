@@ -35,6 +35,7 @@ AI system that analyzes resumes vs job descriptions using NLP and similarity sco
 📂 Code: [https://github.com/Riteshkadiann/SkillVector]
 
 Built with FastAPI, React, PostgreSQL.
+
 ---
 
 ## 📄 Resume
