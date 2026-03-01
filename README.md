@@ -29,16 +29,12 @@ Seeking **Backend / Python / AI Internship opportunities**.
 ## 🔥 Featured Project
 
 **SkillVector — AI Career Strategy Engine**  
-AI system that analyzes resumes vs job descriptions using NLP and similarity scoring.  
-
-- Built with FastAPI + React + PostgreSQL  
-- Implemented TF-IDF & cosine similarity  
-- Designed scalable database schema  
-- Deployed live to production  
+AI system that analyzes resumes vs job descriptions using NLP and similarity scoring.
 
 🔗 Live: [https://skillvector-y1r1.onrender.com/]  
 📂 Code: [https://github.com/Riteshkadiann/SkillVector]
 
+Built with FastAPI, React, PostgreSQL.
 ---
 
 ## 📄 Resume
