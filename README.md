@@ -39,7 +39,7 @@ Built with FastAPI, React, PostgreSQL.
 ---
 
 ## 📄 Resume
-https://riteshkadiann.github.io/Portfolio/resume.pdf
+https://riteshkadian.me/resume.pdf
 
 ## 🔗 Connect
 LinkedIn: https://www.linkedin.com/in/ritesh-kadian/
