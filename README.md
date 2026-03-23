@@ -31,7 +31,7 @@ Seeking **Backend / Python / AI Internship opportunities**.
 **SkillVector — AI Career Strategy Engine**  
 AI system that analyzes resumes vs job descriptions using NLP and similarity scoring.
 
-🔗 Live: [https://skillvector-y1r1.onrender.com/]  
+🔗 Live: [https://skillvector-04vy.onrender.com/]  
 📂 Code: [https://github.com/Riteshkadiann/SkillVector]
 
 Built with FastAPI, React, PostgreSQL.
