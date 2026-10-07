@@ -3,7 +3,6 @@
 ## Software Engineering Student | Backend & AI Developer
 
 Building scalable backend systems, AI-powered applications, and production-ready APIs.  
-Seeking **Backend / Python / AI Internship opportunities**.
 
 ---
 
@@ -26,20 +25,5 @@ Seeking **Backend / Python / AI Internship opportunities**.
 
 ---
 
-## 🔥 Featured Project
-
-**SkillVector — AI Career Strategy Engine**  
-AI system that analyzes resumes vs job descriptions using NLP and similarity scoring.
-
-🔗 Live: [https://skillvector-04vy.onrender.com/]  
-📂 Code: [https://github.com/Riteshkadiann/SkillVector]
-
-Built with FastAPI, React, PostgreSQL.
-
----
-
 ## 📄 Resume
 https://riteshkadian.me/resume.pdf
-
-## 🔗 Connect
-LinkedIn: https://www.linkedin.com/in/ritesh-kadian/
